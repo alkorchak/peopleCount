@@ -1,5 +1,5 @@
 fun main() {
-    val likes = 1_066_336_111
+    val likes = 51
     val digit = likes.toString()
     val digitLength = digit.length - 1
     val lastChar = digit[digitLength]
